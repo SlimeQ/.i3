@@ -145,7 +145,7 @@ export PATH=$PATH:$GRADLE_HOME/bin
 export PATH=$PATH:~/intelliJ/bin
 
 function aptitude {
-  echo "actually FUCK YOU, YOU'RE DRUNK, use apt-get you dumb idiot!"
+  echo "Use apt-get you dumb idiot!"
 }
 
 export -f aptitude
